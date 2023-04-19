@@ -1,2 +1,4 @@
-# mobile-menu-trial
-A mobile menu built with HTML, JS and CSS
+# mobile-menu
+
+
+This is a trial project for the CR program at Microverse
