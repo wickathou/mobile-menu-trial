@@ -421,9 +421,9 @@ textarea {
   position: fixed;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   z-index: 100;
-  background-color: #3C3A39;
+  background-color: #3c3a39;
   width: 100vw;
   height: 100vh;
 }
@@ -433,11 +433,11 @@ textarea {
 }
 
 #mobile-menu a {
-  color: #FFF5E1;
+  color: #fff5e1;
 }
 
 #mobile-menu li {
-  border-bottom: #FFF5E1 solid 1px;
+  border-bottom: #fff5e1 solid 1px;
   margin-top: 5%;
   text-align: start;
 }
@@ -460,11 +460,10 @@ textarea {
 }
 
 @media all and (min-width: 720px) {
-
   #mobile-menu {
     display: none;
   }
-  
+
   .top-social {
     flex-direction: column;
     position: absolute;
