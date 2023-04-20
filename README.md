@@ -4,8 +4,7 @@
 - [📖 Portfolio Micro ](#-portfolio-micro-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
+  - [� Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage](#usage)
@@ -24,10 +23,6 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 HTML | CSS | GIT
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://wickathou.github.io/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
