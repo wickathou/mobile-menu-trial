@@ -4,13 +4,15 @@
 - [📖 Portfolio Micro ](#-portfolio-micro-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-  - [� Getting Started ](#-getting-started-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
@@ -23,6 +25,14 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 HTML | CSS | GIT
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Responsive behaviour]**
+- **[Form validation]**
+- **[Post request to formspree]**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -60,6 +70,9 @@ To run the project, open index.html with your preferred web browser or open it w
 
 Feel free to check the [issues page](https://github.com/wickathou/portfolio/issues).
 
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project consider giving it a ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Thanks Microverse, learn how to code > [Join Microverse](https://www.microverse.org/?grsf=9m3hq6)
