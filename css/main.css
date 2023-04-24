@@ -429,7 +429,7 @@ textarea {
 }
 
 .not-active {
-  display: none;
+  display: flex;
 }
 
 #mobile-menu a {
