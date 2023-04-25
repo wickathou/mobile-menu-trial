@@ -2,7 +2,6 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Portfolio Micro ](#-portfolio-micro-)
-  - [Live Link ](#live-link-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,10 +19,6 @@
 # 📖 Portfolio Micro <a name="about-project"></a>
 
 **Portfolio Micro** A minimaly designed portfolio, created based on the structure of the portfolio templates collected by Microverse. This website was created taking as reference the template 1 from [this figma file](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1)
-
-## Live Link <a name="live-link"></a>
-
-https://github.com/wickathou/mobile-menu-trial/
 
 ## 🛠 Built With <a name="built-with"></a>
 
